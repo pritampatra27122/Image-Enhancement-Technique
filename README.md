@@ -3,9 +3,9 @@ Implementation of Image Enhancement Technique on Medical Images
 
 Using Jupyter Notebook, the following image enhancing techniques were applied to CT and MRI scans of the brain:
 
-1. Binarization
-2. Contrast Limited Adaptive Histogram Equilization(CLAHE)
-3. Contrast Stretching 
+1. [Binarization](https://github.com/pritampatra27122/Image-Enhancement-Technique/blob/master/MEDICAL_IMAGE.ipynb)
+2. [Contrast Limited Adaptive Histogram Equilization(CLAHE)](https://github.com/pritampatra27122/Image-Enhancement-Technique/blob/master/MEDICAL_IMAGE.ipynb)
+3. [Contrast Stretching ](https://github.com/pritampatra27122/Image-Enhancement-Technique/blob/master/MEDICAL_IMAGE.ipynb)
 
 ## Input Images
 | Brain CT Image                                                                                                                             | Brain MRI Image                                                                                                                            |
